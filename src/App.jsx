@@ -1461,13 +1461,14 @@ function Portfolio() {
   );
 }
 const onDownload = () => {
-  let link = document.createElement('a');
-  link.href = 'https://docs.google.com/document/d/1nBgOwGPhTsCUXsp4SLoyRgARiIfn71VT/edit?usp=sharing&ouid=103408972843813940029&rtpof=true&sd=true';
-  link.target = '_blank';
+  const link = document.createElement("a");
+  link.href = `${import.meta.env.BASE_URL}Sunil_Ambaljeri_Resume.pdf`;
+  link.download = "Sunil_Ambaljeri_Resume.pdf";
   document.body.appendChild(link);
   link.click();
   document.body.removeChild(link);
-}
+};
+
 function App() {
   const scrollToTop = () => {
     window.scrollTo({ top: 0, behavior: "smooth" });
