@@ -1,9 +1,9 @@
 {
   "name": "my-resume",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
-  "homepage": "https://github.com/SunilAmbaljeri/Sunil-ambaljeri-portfolio",
+  "homepage": "https://sunilambaljeri.github.io/Sunil-ambaljeri-portfolio/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
