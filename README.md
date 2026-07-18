@@ -152,8 +152,4 @@ The latest version of my resume is available in this repository.
 
 ---
 
-## ⭐ If you like this portfolio
-
-Feel free to **star ⭐ this repository** and connect with me on LinkedIn.
-
 Thank you for visiting my portfolio!
