@@ -8,13 +8,7 @@ This portfolio showcases my experience, technical expertise, leadership journey,
 
 # 🚀 Live Portfolio
 
-**Portfolio:** *(Add your GitHub Pages URL here after deployment)*
-
-Example:
-
-```
-https://sunilambaljeri.github.io/Sunil-ambaljeri-resumae/
-```
+**Portfolio:** https://sunilambaljeri.github.io/Sunil-ambaljeri-resumae
 
 ---
 
